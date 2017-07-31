@@ -1,0 +1,49 @@
+body{
+  background-image: url(clouds-2517653_960_720.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  
+}
+p{
+    color: aqua;
+    font-size: 30px;
+    font-stretch:ultra-expanded;
+    font-family:Brush Script MT;
+}
+cite{
+    font-size: 16px;
+}
+.quotes{
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+   z-index: -1;
+}
+h1{
+  color:white;
+}
+u{
+    font-family: Impact;
+    font-size: 50px;
+}
+.quote{
+  background-color:#000;
+  width:60%;
+  height: 125px;
+  margin-top: 3px;
+  color: white;
+  border-radius:20px;
+  padding-top:20px;
+  padding-bottom:20px;
+  border:2px solid;
+  font-family:Gungsuh;
+  font-size:20px;
+  box-shadow: 2px 2px white;
+}
+.yu{
+  color:white;
+}
+.footer{
+    color:floralwhite;
+}
